@@ -31,6 +31,7 @@ $ npm install
 ```sh
 # with npm 
 $ npm update
+$ npm run dev or npm run watch
 ```
 
 **Step 4**: run the migration and seeder code to have a data in your local
