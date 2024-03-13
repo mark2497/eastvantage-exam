@@ -1,6 +1,6 @@
-# OUTSOURCED TECHNICAL EXAM
+# Eastvantage TECHNICAL EXAM
 
-## About Library Application
+## About User Crud application
 
 Laravel 8
 
